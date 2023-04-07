@@ -1,1 +1,2 @@
-This is a lorem text 3
+This is a lorem text 2
+This is a lorem text for chapter2
