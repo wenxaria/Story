@@ -1,2 +1,1 @@
-This is a lorem text 2
-This is a lorem text for chapter2
+Some text for my story -Chapter 2
